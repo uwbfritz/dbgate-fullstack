@@ -1,4 +1,4 @@
-# DBGate Demonstration
+# DBGate with Servers
 ---
 DB Servers Included:
 - sqlite
